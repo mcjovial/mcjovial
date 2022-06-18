@@ -5,6 +5,13 @@
 </div>
 - 💞️ I’m looking to collaborate on web or mobile app development projects
 <!-- - 📫 How to reach me emmanuelelias455@gmail.com [+234 90 3882 1990] -->
+<div align="center">
+  <h3>LETS CONNECT</h3>
+  <a target="_blank" href="https://www.linkedin.com/in/emmanuel-elias-6b3952198/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="mailto:emmanuelelias455@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  <a target="_blank" href="https://twitter.com/mcjovial1"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+</div>
 
 
 <br>
