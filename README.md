@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mcjovial
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning AI
+<div align="center">
+  <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm McJovial</h1>
+  <h4 align="center">a Software Engineer experienced in Designing, Developing and Maintaining web and mobile apps, with core competence in:</h4>
+  <p>⚙️<span>Frontend Design & Development</span> ⚙️<span>Backend Engineering</span> ⚙️<span>Server Administration & DevOps</span> ⚙️<span>Software Engineering Management</span></p>
+</div>
 - 💞️ I’m looking to collaborate on web or mobile app development projects
-- 📫 How to reach me emmanuelelias455@gmail.com [+234 90 3882 1990]
+<!-- - 📫 How to reach me emmanuelelias455@gmail.com [+234 90 3882 1990] -->
 
 
 <br>
